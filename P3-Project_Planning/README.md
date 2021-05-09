@@ -10,11 +10,13 @@ For this assignment, you'll create some initial plans for your project.
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 * Landing page
-  *  ![image](https://user-images.githubusercontent.com/53056727/117581598-3dfc7a80-b0c3-11eb-9e61-41385a2ea0a5.png)
+    ![image](https://user-images.githubusercontent.com/53056727/117581598-3dfc7a80-b0c3-11eb-9e61-41385a2ea0a5.png)
 * DJ Homepage
-  *  ![image](https://user-images.githubusercontent.com/53056727/117581620-6f754600-b0c3-11eb-911d-051dcb865a14.png)
+    ![image](https://user-images.githubusercontent.com/53056727/117581620-6f754600-b0c3-11eb-911d-051dcb865a14.png)
 * Queue homepage
-  *  ![image](https://user-images.githubusercontent.com/53056727/117581634-87e56080-b0c3-11eb-8286-aca8dd869ad4.png)
+    ![image](https://user-images.githubusercontent.com/53056727/117581634-87e56080-b0c3-11eb-8286-aca8dd869ad4.png)
+    
+Find more wireframes of this project [here](https://www.figma.com/file/sEHcVll6rZyY7kCctw6Vwi/Untitled?node-id=0%3A1)
 
 
 ### Project Tracker
