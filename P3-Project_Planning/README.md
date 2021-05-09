@@ -21,10 +21,10 @@ Include at least 3 wireframes here, adding images or files to your repository as
 
 Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
 
-* Here is my [trello board] (https://trello.com/invite/b/9SZE6nL0/f22654d6a85bd0ab78554714ebde36d9/song-project)
+* Here is my [trello board](https://trello.com/invite/b/9SZE6nL0/f22654d6a85bd0ab78554714ebde36d9/song-project)
 
 ### Project Repo Link
 
 Include a link to your project on GitHub.
 
-* Find my project [here] (https://github.com/bryanaherrera/Dj-app)
+* Find my project [here](https://github.com/bryanaherrera/Dj-app)
